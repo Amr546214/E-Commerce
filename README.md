@@ -1,27 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amr Okasha</h1>
 <h3 align="center">
-  <span style="
-    background: linear-gradient(90deg, #61DAFB, #007acc, #61DAFB);
-    background-size: 200% auto;
-    color: #fff;
-    font-weight: bold;
-    font-size: 22px;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    display: inline-block;
-    animation: shine 3s linear infinite;
-  ">
-    ⚛️ I am a React Developer 🎯
-  </span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="vertical-align: middle;"/>
+  <span> I am a React Developer </span>
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="react-animation" width="40" height="40" style="vertical-align: middle;"/>
 </h3>
 
-<style>
-@keyframes shine {
-  to {
-    background-position: 200% center;
-  }
-}
-</style>
 
 
 ---
