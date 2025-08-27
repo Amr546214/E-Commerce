@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amr Okasha</h1>
 <h3 align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="react" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/Amr546214/Amr546214/main/assets/react-rotate.svg" alt="react rotating" width="60" height="60" />
   <span> I am a React Developer </span>
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="react" width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/Amr546214/Amr546214/main/assets/react-rotate.svg" alt="react rotating" width="60" height="60" />
 </h3>
 
 
