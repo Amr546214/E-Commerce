@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amr Okasha</h1>
 <h3 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="vertical-align: middle;"/>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="react" width="50" height="50" style="vertical-align: middle;"/>
   <span> I am a React Developer </span>
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="react-animation" width="40" height="40" style="vertical-align: middle;"/>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="react" width="50" height="50" style="vertical-align: middle;"/>
 </h3>
+
 
 
 
