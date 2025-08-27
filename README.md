@@ -73,7 +73,4 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-okasha&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 
-  <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.vercel.app?user=amr-okasha&theme=tokyonight" alt="GitHub Streak" height="180" />
-
 </div>
