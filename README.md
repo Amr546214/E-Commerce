@@ -67,10 +67,13 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=amr-okasha&show_icons=true&theme=tokyonight" alt="Amr's GitHub stats" height="180" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Amr546214&show_icons=true&theme=tokyonight" alt="Amr's GitHub stats" height="180" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-okasha&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr546214&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 
 </div>
+
+
+
