@@ -1,5 +1,28 @@
 <h1 align="center">Hi 👋, I'm Amr Okasha</h1>
-<h3 align="center">I am a Software Engineering student</h3>
+<h3 align="center">
+  <span style="
+    background: linear-gradient(90deg, #61DAFB, #007acc, #61DAFB);
+    background-size: 200% auto;
+    color: #fff;
+    font-weight: bold;
+    font-size: 22px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    animation: shine 3s linear infinite;
+  ">
+    ⚛️ I am a React Developer 🎯
+  </span>
+</h3>
+
+<style>
+@keyframes shine {
+  to {
+    background-position: 200% center;
+  }
+}
+</style>
+
 
 ---
 
