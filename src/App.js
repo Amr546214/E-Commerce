@@ -3,27 +3,27 @@ import { useState } from "react";
 const productsItems = [
   {
     id: 1,
-    name: "Shirt 1",
+    name: "Green shirt",
     price: 59.99,
-    image: "shirt.jpg"
+    image: "/green-Shirt.jpg"
   },
   {
     id: 2,
-    name: "Shirt 2",
+    name: "Black Shirt",
     price: 129.50,
-    image: "shirt.jpg"
+    image: "/black.jpg"
   },
   {
     id: 3,
-    name: "Shirt 3",
+    name: "Green Shirt",
     price: 39.00,
-    image: "shirt.jpg"
+    image: "/shirt.jpg"
   },
   {
     id: 4,
-    name: "shirt 4",
+    name: "Burgundy shirt",
     price: 39.00,
-    image: "shirt.jpg"
+    image: "/npety.jpg"
   }
 ];
 
@@ -44,7 +44,7 @@ export default function App() {
 
     const total = productsItems.reduce((acc, item) => {
     const qty = totalPrice[item.id] || 0;
-    console.log( acc + qty * item.price);
+    // console.log( acc + qty * item.price);
     return acc + qty * item.price;
   }, 0);
   return (
