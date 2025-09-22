@@ -135,7 +135,7 @@ function Totalprice({total,setTotalPrice,setCart,totalPrice,productsItems}){
     <div key={ci.id}>
 
       <div style={{display:"flex",alignItems:"center",flexDirection:"column"}}>
-        <img style={{width:"100px"}}  src={ci.image}></img>
+        <img style={{width:"100px"}}  src={ci.image} alt="Product image"></img>
         <h6>{ci.name}</h6>
        <h2>{ci.qty} piece </h2>
        {" "}
